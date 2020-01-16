@@ -1,0 +1,11 @@
+C:\Users\rabi.aranda\source\repos\Observador\Observador\bin\Debug\netcoreapp2.1\Observador.deps.json
+C:\Users\rabi.aranda\source\repos\Observador\Observador\bin\Debug\netcoreapp2.1\Observador.runtimeconfig.json
+C:\Users\rabi.aranda\source\repos\Observador\Observador\bin\Debug\netcoreapp2.1\Observador.runtimeconfig.dev.json
+C:\Users\rabi.aranda\source\repos\Observador\Observador\bin\Debug\netcoreapp2.1\Observador.dll
+C:\Users\rabi.aranda\source\repos\Observador\Observador\bin\Debug\netcoreapp2.1\Observador.pdb
+C:\Users\rabi.aranda\source\repos\Observador\Observador\obj\Debug\netcoreapp2.1\Observador.csprojAssemblyReference.cache
+C:\Users\rabi.aranda\source\repos\Observador\Observador\obj\Debug\netcoreapp2.1\Observador.csproj.CoreCompileInputs.cache
+C:\Users\rabi.aranda\source\repos\Observador\Observador\obj\Debug\netcoreapp2.1\Observador.AssemblyInfoInputs.cache
+C:\Users\rabi.aranda\source\repos\Observador\Observador\obj\Debug\netcoreapp2.1\Observador.AssemblyInfo.cs
+C:\Users\rabi.aranda\source\repos\Observador\Observador\obj\Debug\netcoreapp2.1\Observador.dll
+C:\Users\rabi.aranda\source\repos\Observador\Observador\obj\Debug\netcoreapp2.1\Observador.pdb
